@@ -1,0 +1,26 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Assignment1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dagutier-cntniall/Assignment1_DavidGutierrez.git"
+  },
+  "keywords": [
+    "Assignment1",
+    "David"
+  ],
+  "author": "David Gutierrez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dagutier-cntniall/Assignment1_DavidGutierrez/issues"
+  },
+  "homepage": "https://github.com/dagutier-cntniall/Assignment1_DavidGutierrez#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
