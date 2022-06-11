@@ -50,7 +50,7 @@ jobs:
         uses: azure/webapps-deploy@v2
         id: deploy-to-webapp
         with:
-          app-name: 'Davids-portfolio'
+          app-name: 'davidg-portfolio'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_35F8F3EB4C12491DBEAE3C86CA95015B }}
           package: .
